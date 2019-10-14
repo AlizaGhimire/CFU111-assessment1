@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(160, 210, 214);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    max-width: 900px;
+    margin: auto;
+}
+h1{
+    color: black;
+}
+p{
+    color: blanchedalmond;
+}
+.greenparagraph{
+    color: green;
+}
+@media screen and (max-width: 500px){
+    body {
+        background : yellowgreen;
+    }
+    p{
+        font-size: 28px;
+    }
+}
