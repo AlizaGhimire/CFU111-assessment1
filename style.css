@@ -1,17 +1,17 @@
 body {
     background-image:
-     url("backpack-blonde-hair-blur-214574.jpg");
-    background-color: rgb(160, 210, 214);
+     url("background-blur-car-754898.jpg");
+    background-color: rgb(61, 101, 104);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     max-width: 900px;
     margin: auto;
 }
 h1{
-    color: black;
+    color: rgb(65, 33, 33);
 }
 p{
-    color: blanchedalmond;
+    color: rgb(46, 24, 3);
 }
 .greenparagraph{
     color: green;
