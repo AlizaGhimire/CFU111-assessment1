@@ -2,10 +2,19 @@ body {
     background-image:
      url("background-blur-car-754898.jpg");
     background-color: rgb(61, 101, 104);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Yeon Sung', cursive;
+  
     font-size: 18px;
     max-width: 900px;
     margin: auto;
+
+}
+ video {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 10;
+
 }
 h1{
     color: rgb(65, 33, 33);
